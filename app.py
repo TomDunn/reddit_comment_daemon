@@ -23,4 +23,4 @@ while True:
     idset1 = idset1.union(idset2)
     print "unique ids: %s" % str(len(idset1))
 
-    sleep(45)
+    sleep(30)
